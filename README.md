@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lamyae Enajjari</h1>
-<h3 align="center">A passionate frontend developer from A State Engineer in Data Science, Big Data & Artificial Intelligence from Morocco 🇲🇦India</h3>
+<h3 align="center">A passionate frontend developer from A State Engineer in Data Science, Big Data & Artificial Intelligence from Morocco </h3>
 
-- 🔭 I’m currently working on **HCP Statistical Copilot**
 
 - 🌱 I’m currently learning **Machine Learning, Generative AI, and Data Engineering**
 
